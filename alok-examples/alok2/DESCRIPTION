@@ -1,0 +1,7 @@
+Type: Shiny
+Title: Unit Converter Dynamic UI
+License: GPL-3
+Author: Alok Juneja <junejaalok@gmail.com>
+AuthorUrl: http://www.rstudio.com/
+Tags: dynamic-ui renderui uioutput
+DisplayMode: Showcase
